@@ -1,6 +1,6 @@
-# Classification
+# Classification models
 
-The following Machine Learning classification models are contained in this repository:
+The following Classification models are considered:
 
 1. Logistic Regression
 2. K-Nearest Neighbors (K-NN)
